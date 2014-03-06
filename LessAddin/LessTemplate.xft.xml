@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<Template Originator="Boris Scheiman" Language="LESS" Created="3/6/2014" LastModified="3/6/2014">
+	<TemplateConfiguration>
+		<_Name>LESS CSS File</_Name>
+		<Icon>md-text-file-icon</Icon>
+		<_Description>Creates an empty LESS CSS file.</_Description>
+		<_Category>Web</_Category>
+		<DefaultFilename>default</DefaultFilename>
+	</TemplateConfiguration>
+	<TemplateFiles>
+		<File DefaultExtension=".less" CustomTool="LessGenerator"  BuildAction="Content" />
+	</TemplateFiles>
+	<FileOptions />
+</Template>
