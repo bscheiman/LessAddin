@@ -1,0 +1,7 @@
+<AddinProject appVersion="2.4">
+	<Project platforms="Mac Linux Win32">
+		<AddinFile>LessAddin/bin/Release/LessAddin.dll</AddinFile>
+		<BuildFile>LessAddin.sln</BuildFile>
+		<BuildConfiguration>Release</BuildConfiguration>
+	</Project>
+</AddinProject>
