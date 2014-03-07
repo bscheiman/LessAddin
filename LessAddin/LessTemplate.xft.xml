@@ -8,7 +8,7 @@
 		<DefaultFilename>default</DefaultFilename>
 	</TemplateConfiguration>
 	<TemplateFiles>
-		<File DefaultExtension=".less" CustomTool="LessGenerator"  BuildAction="Content" />
+		<File DefaultExtension=".less2" CustomTool="LessGenerator"  BuildAction="Content" />
 	</TemplateFiles>
 	<FileOptions />
 </Template>

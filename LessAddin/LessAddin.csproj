@@ -62,6 +62,7 @@
   <ItemGroup>
     <EmbeddedResource Include="Properties\Manifest.addin.xml" />
     <EmbeddedResource Include="LessTemplate.xft.xml" />
+    <EmbeddedResource Include="LessSyntaxMode2.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
